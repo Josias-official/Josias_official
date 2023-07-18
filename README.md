@@ -6,11 +6,14 @@ Today, I am dedicated to applying these skills in the field of data science, dev
 
 **Technical Skills:**
 
-Programming Languages: Python, R, SQL
-Data Analysis Tools: Pandas, NumPy, Scikit-learn, TensorFlow
-Data Visualization: Matplotlib, Seaborn, Tableau
-Database Management: MySQL
-Version Control: Git, GitHub
+-Programming Languages: Python, R, SQL
+*Data Analysis Tools: Pandas, NumPy, Scikit-learn, TensorFlow
++Data Visualization: Matplotlib, Seaborn, Tableau
++Database Management: MySQL
++Version Control: Git, GitHub
+
+**Projects:**
+
 
 Contact Information:
 
