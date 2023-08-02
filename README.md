@@ -6,10 +6,10 @@ Today, I am dedicated to applying these skills in the field of data science, dev
 
 ## Technical Skills
 
-Programming Languages: Python, R, SQL
-Data Analysis Tools: Pandas, NumPy, Scikit-learn, TensorFlow
-Data Visualization: Matplotlib, Seaborn, Tableau
-Database Management: MySQL
+- **Programming Languages:** Python, R, SQL
+- **Data Analysis Tools:** Pandas, NumPy, Scikit-learn, TensorFlow
+- **Data Visualization:** Matplotlib, Seaborn, Tableau
+- **Database Management:** MySQL
 Version Control: Git, GitHub
 
 ## Projects
@@ -20,9 +20,9 @@ Bootcamp Certificate in Data science from HyperionDev (2023)
 Diploma in Computer Networks and Telecommunications from ESGIS(2019-2021)
 
 ## Interests
-Music
-Football
-Reading
+- **Music**
+- **Football**
+- **Reading**
 
 
 ## Contact Information
