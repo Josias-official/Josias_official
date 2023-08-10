@@ -13,7 +13,7 @@ Today, I am dedicated to applying these skills in the field of data science, dev
 Version Control: Git, GitHub
 
 ## Projects
-HyperionDev Portfolio -A portfolio of Data Science project tasks from HyperionDev Bootcamp
+HyperionDev Portfolio -A portfolio of Data Science project tasks from HyperionDev Bootcamp in UK 
 - **https://www.hyperiondev.com/portfolio/141680/** 
 
 ## Education
