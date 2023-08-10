@@ -14,6 +14,7 @@ Version Control: Git, GitHub
 
 ## Projects
 HyperionDev Portfolio -A portfolio of Data Science project tasks from HyperionDev Bootcamp
+- **https://www.hyperiondev.com/portfolio/141680/** 
 
 ## Education
 Bootcamp Certificate in Data science from HyperionDev (2023)
