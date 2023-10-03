@@ -14,7 +14,9 @@ Version Control: Git, GitHub
 
 ## Projects
 HyperionDev Portfolio -A portfolio of Data Science project tasks from HyperionDev Bootcamp in UK 
-- **https://www.hyperiondev.com/portfolio/141680/** 
+- **https://www.hyperiondev.com/portfolio/141680/**
+- **https://github.com/Josias-official/CodeClauseInternship-Color-Detection**
+- **https://github.com/Josias-official/CodeClauseInternship_Age-Gender_Detection**
 
 ## Education
 Bootcamp Certificate in Data science from HyperionDev (2023)
